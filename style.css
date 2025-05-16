@@ -478,18 +478,18 @@ img {
   .hero-header h2,
   .main-content--header h2,
   .footer-cta--header h2 {
-    font: var(--text-preset-1);
+    font: var(--text-preset-2);
     font-weight: 900;
   }
 
   .hero-text p,
   .main-content--text p,
   .footer-cta--text p {
-    font: var(--text-preset-2);
+    font: var(--text-preset-4);
   }
 
   .main-content--header h3 {
-    font: var(--text-preset-2);
+    font: var(--text-preset-4);
   }
 
   .footer-content {
@@ -501,7 +501,6 @@ img {
 
   .footer-cta--buttons button,
   .hero-buttons button {
-    font: var(--text-preset-3);
-    padding: var(--spacing-500) var(--spacing-1000);
+    font: var(--text-preset-4);
   }
 }
